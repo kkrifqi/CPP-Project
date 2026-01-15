@@ -1,2 +1,1 @@
-#CPP-Project
-Some of my c++ final project
+Some of my C++ final project
