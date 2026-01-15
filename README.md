@@ -1,2 +1,2 @@
-# C-Project
+CPP-Project
 Some of my c++ final project
